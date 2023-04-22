@@ -1,6 +1,6 @@
 # COMS6113_Database_Research
 
-# Topics: Optimizing Text-to-SQL Models for Chinese Language Translation: A Cross-Evaluation of Single-Language and Multilingual Models
+## Topics: Optimizing Text-to-SQL Models for Chinese Language Translation: A Cross-Evaluation of Single-Language and Multilingual Models
 
 ## Abstract:
 Text-to-SQL converts natural language to structured SQL queries for retrieving desired information, enabling e￿ective communication between users and databases. This is critical for modern database systems as users demand more natural and intuitive access. As regional integration increasingly serves as a development strategy globally, the demand for Text-to-SQL to support multiple languages has grown. However, current Text-to-SQL models are typically trained solely on English or on multiple languages but exhibit lower accuracy when applied to languages other than English. In this research paper, our goal is to optimize existing English models to achieve better performance on the Chinese language, which has the second-largest number of users worldwide. Speci￿cally, we aim to optimize existing Seq2Seq, T5, and mBart-50 models to enhance their performance in Chinese translation tasks. Furthermore, we intend to conduct cross-evaluations to assess the e￿ciency of both single-language and multilingual models for translating the Chinese language.
@@ -27,5 +27,5 @@ Text-to-SQL converts natural language to structured SQL queries for retrieving d
 - Chinese-mbart-Fine_tuned-Retrain.ipynb: Take a try of other fine_tined Chinese version of monolingual mbart model in Text to SQL task
 
 
-# Reference: Please see in the final paper submission. 
+Reference: Please see in the final paper submission. 
 
