@@ -27,5 +27,4 @@ Text-to-SQL converts natural language to structured SQL queries for retrieving d
 - Chinese-mbart-Fine_tuned-Retrain.ipynb: Take a try of other fine_tined Chinese version of monolingual mbart model in Text to SQL task
 
 
-Reference: Please see in the final paper submission. 
 
