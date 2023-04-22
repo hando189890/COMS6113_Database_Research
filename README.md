@@ -24,7 +24,7 @@ Text-to-SQL converts natural language to structured SQL queries for retrieving d
 - English_mbart_Fine_tuned_Pretrained.ipynb: English version of Multilingual mbart model in Text to SQL task  
 - Chinese-schema-aware-denoising-mbart-Fine_tuned-Retrain.ipynb: Chinese version of Multilingual mbart model in Text to SQL task 
 - Mixture-schema-aware-denoising-mbart-Fine_tuned-Retrain.ipynb: Mixed Chinese and English version of Multilingual mbart model in Text to SQL task 
-- Chinese-mbart-Fine_tuned-Retrain.ipynb: Take a try of other fine_tined Chinese version of monolingual mbart model in Text to SQL task
+- Chinese-mbart-Fine_tuned-Retrain.ipynb: Fine_tuned Chinese version of monolingual mbart model in Text to SQL task
 
 
 
