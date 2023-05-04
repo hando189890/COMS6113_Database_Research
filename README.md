@@ -13,7 +13,7 @@ Text-to-SQL converts natural language to structured SQL queries for retrieving d
 ## Links:
 - Github: [https://github.com/hando189890/COMS6113_Database_Research]
 - Proposal Submission: [https://drive.google.com/file/d/1MELr3R93dKTgHo0gM400R6zqdVT1HVgS/view?usp=share_link]
-- Final Paper Submission: [https://www.dropbox.com/s/uw66acogoxuoq4u/proposal%20Draft-Optimizing%20Text-to-SQL%20Models%20for%20Chinese%20Language%20Translation%20A%20Cross-Evaluation%20of%20Single-Language%20and%20Multilingual%20Models%20Dongbing%20han.pdf?dl=0]
+- Final Paper Submission: [Refer PDF document in this Github repository]
 - WikiSQL dataset: https://github.com/salesforce/WikiSQL
 - Chinese WikiSQL dataset:https://drive.google.com/file/d/1GAUs6U3U3qrLX_53eqK_vlqUblqPr7j1/view?usp=share_link
 
